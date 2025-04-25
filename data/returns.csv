@@ -1,0 +1,210 @@
+id,order_id,reason,date_returned
+1,26,not needed,2025-04-16
+2,59,incorrect item,2025-04-14
+3,82,quality issues,2025-04-16
+4,108,quality issues,2025-04-14
+5,110,incorrect item,2025-04-16
+6,215,damaged,2025-04-16
+7,241,damaged,2025-04-16
+8,245,quality issues,2025-04-12
+9,373,quality issues,2025-04-13
+10,395,not needed,2025-04-15
+11,402,damaged,2025-04-16
+12,406,incorrect item,2025-04-13
+13,412,quality issues,2025-04-14
+14,420,damaged,2025-04-15
+15,432,damaged,2025-04-16
+16,437,not needed,2025-04-15
+17,474,damaged,2025-04-12
+18,478,damaged,2025-04-12
+19,485,not needed,2025-04-13
+20,507,not needed,2025-04-16
+21,528,damaged,2025-04-14
+22,591,damaged,2025-04-12
+23,605,incorrect item,2025-04-16
+24,627,quality issues,2025-04-15
+25,686,not needed,2025-04-13
+26,696,quality issues,2025-04-13
+27,712,damaged,2025-04-13
+28,718,incorrect item,2025-04-13
+29,740,quality issues,2025-04-14
+30,791,quality issues,2025-04-16
+31,821,incorrect item,2025-04-14
+32,833,incorrect item,2025-04-15
+33,858,damaged,2025-04-16
+34,862,not needed,2025-04-13
+35,888,quality issues,2025-04-12
+36,924,incorrect item,2025-04-14
+37,927,quality issues,2025-04-15
+38,932,quality issues,2025-04-15
+39,933,incorrect item,2025-04-13
+40,960,not needed,2025-04-13
+41,984,incorrect item,2025-04-15
+42,1006,quality issues,2025-04-13
+43,1009,damaged,2025-04-16
+44,1012,incorrect item,2025-04-15
+45,1016,quality issues,2025-04-14
+46,1040,quality issues,2025-04-14
+47,1064,incorrect item,2025-04-16
+48,1076,incorrect item,2025-04-16
+49,1080,quality issues,2025-04-13
+50,1138,incorrect item,2025-04-12
+51,1154,quality issues,2025-04-14
+52,1174,incorrect item,2025-04-14
+53,1179,damaged,2025-04-16
+54,1183,not needed,2025-04-13
+55,1192,incorrect item,2025-04-15
+56,1221,incorrect item,2025-04-13
+57,1267,incorrect item,2025-04-14
+58,1333,incorrect item,2025-04-16
+59,1345,damaged,2025-04-12
+60,1380,quality issues,2025-04-14
+61,1396,quality issues,2025-04-14
+62,1398,quality issues,2025-04-16
+63,1416,quality issues,2025-04-16
+64,1420,damaged,2025-04-16
+65,1450,incorrect item,2025-04-12
+66,1476,not needed,2025-04-12
+67,1477,damaged,2025-04-14
+68,1483,quality issues,2025-04-12
+69,1540,damaged,2025-04-13
+70,1596,quality issues,2025-04-16
+71,1604,quality issues,2025-04-12
+72,1633,quality issues,2025-04-13
+73,1639,damaged,2025-04-16
+74,1645,quality issues,2025-04-12
+75,1648,not needed,2025-04-16
+76,1694,damaged,2025-04-16
+77,1713,incorrect item,2025-04-15
+78,1785,incorrect item,2025-04-12
+79,1789,damaged,2025-04-16
+80,1795,quality issues,2025-04-15
+81,1820,quality issues,2025-04-16
+82,1823,quality issues,2025-04-12
+83,1832,not needed,2025-04-13
+84,1835,quality issues,2025-04-13
+85,1871,not needed,2025-04-16
+86,1925,quality issues,2025-04-14
+87,1981,quality issues,2025-04-16
+88,2033,quality issues,2025-04-13
+89,2095,incorrect item,2025-04-13
+90,2129,quality issues,2025-04-12
+91,2198,quality issues,2025-04-14
+92,2240,incorrect item,2025-04-14
+93,2241,damaged,2025-04-13
+94,2286,quality issues,2025-04-14
+95,2301,damaged,2025-04-15
+96,2317,quality issues,2025-04-12
+97,2321,incorrect item,2025-04-14
+98,2339,not needed,2025-04-14
+99,2409,quality issues,2025-04-16
+100,2413,quality issues,2025-04-15
+101,2502,incorrect item,2025-04-13
+102,2557,incorrect item,2025-04-15
+103,2595,quality issues,2025-04-12
+104,2624,incorrect item,2025-04-16
+105,2636,damaged,2025-04-15
+106,2637,quality issues,2025-04-12
+107,2642,incorrect item,2025-04-16
+108,2649,damaged,2025-04-16
+109,2655,quality issues,2025-04-16
+110,2664,damaged,2025-04-16
+111,2682,incorrect item,2025-04-13
+112,2705,incorrect item,2025-04-13
+113,2748,quality issues,2025-04-15
+114,2769,quality issues,2025-04-15
+115,2776,incorrect item,2025-04-12
+116,2785,damaged,2025-04-16
+117,2819,damaged,2025-04-15
+118,2871,incorrect item,2025-04-16
+119,2954,damaged,2025-04-14
+120,3008,not needed,2025-04-16
+121,3084,incorrect item,2025-04-15
+122,3107,quality issues,2025-04-13
+123,3138,damaged,2025-04-12
+124,3148,damaged,2025-04-13
+125,3151,quality issues,2025-04-12
+126,3233,not needed,2025-04-16
+127,3246,quality issues,2025-04-15
+128,3257,quality issues,2025-04-12
+129,3264,quality issues,2025-04-16
+130,3291,incorrect item,2025-04-13
+131,3315,incorrect item,2025-04-14
+132,3331,quality issues,2025-04-16
+133,3398,incorrect item,2025-04-12
+134,3415,incorrect item,2025-04-15
+135,3428,quality issues,2025-04-14
+136,3431,quality issues,2025-04-14
+137,3438,incorrect item,2025-04-13
+138,3447,incorrect item,2025-04-15
+139,3470,damaged,2025-04-12
+140,3472,not needed,2025-04-12
+141,3477,incorrect item,2025-04-15
+142,3522,damaged,2025-04-15
+143,3543,not needed,2025-04-14
+144,3581,not needed,2025-04-13
+145,3587,incorrect item,2025-04-14
+146,3645,quality issues,2025-04-16
+147,3712,damaged,2025-04-12
+148,3744,quality issues,2025-04-15
+149,3755,incorrect item,2025-04-14
+150,3774,quality issues,2025-04-16
+151,3793,incorrect item,2025-04-12
+152,3841,quality issues,2025-04-15
+153,3886,quality issues,2025-04-16
+154,3920,incorrect item,2025-04-14
+155,3987,quality issues,2025-04-15
+156,4003,quality issues,2025-04-14
+157,4004,not needed,2025-04-12
+158,4005,not needed,2025-04-13
+159,4011,not needed,2025-04-16
+160,4037,damaged,2025-04-16
+161,4042,damaged,2025-04-13
+162,4054,quality issues,2025-04-14
+163,4059,quality issues,2025-04-12
+164,4068,not needed,2025-04-14
+165,4106,quality issues,2025-04-13
+166,4160,quality issues,2025-04-12
+167,4164,incorrect item,2025-04-13
+168,4217,incorrect item,2025-04-13
+169,4262,quality issues,2025-04-16
+170,4303,damaged,2025-04-15
+171,4320,incorrect item,2025-04-12
+172,4371,damaged,2025-04-15
+173,4381,incorrect item,2025-04-13
+174,4386,incorrect item,2025-04-14
+175,4390,damaged,2025-04-13
+176,4439,damaged,2025-04-12
+177,4461,not needed,2025-04-15
+178,4497,quality issues,2025-04-12
+179,4509,incorrect item,2025-04-14
+180,4568,incorrect item,2025-04-14
+181,4578,incorrect item,2025-04-16
+182,4650,incorrect item,2025-04-15
+183,4685,incorrect item,2025-04-13
+184,4686,quality issues,2025-04-15
+185,4693,not needed,2025-04-16
+186,4736,quality issues,2025-04-15
+187,4769,quality issues,2025-04-13
+188,4775,incorrect item,2025-04-14
+189,4800,quality issues,2025-04-16
+190,4840,quality issues,2025-04-16
+191,4872,incorrect item,2025-04-15
+192,4910,quality issues,2025-04-15
+193,4926,quality issues,2025-04-14
+194,4936,quality issues,2025-04-12
+195,5006,quality issues,2025-04-14
+196,5012,quality issues,2025-04-13
+197,5043,incorrect item,2025-04-13
+198,5068,not needed,2025-04-12
+199,5095,quality issues,2025-04-14
+200,5194,damaged,2025-04-13
+201,5223,quality issues,2025-04-16
+202,5225,quality issues,2025-04-16
+203,5252,incorrect item,2025-04-13
+204,5315,quality issues,2025-04-14
+205,5345,quality issues,2025-04-12
+206,5348,damaged,2025-04-13
+207,5350,quality issues,2025-04-12
+208,5356,damaged,2025-04-15
+209,5499,quality issues,2025-04-12
